@@ -4,8 +4,8 @@ int main(){
  std::cout<<"enter";
 // std::cin>>name; //it will take space as enter
  // std::cout<<"name is "<<name; 
- getline(std::cin,name);
- std::cout<<"name is "<<name;
+ //getline(std::cin,name);
+ //std::cout<<"name is "<<name;
  
     return 0;
 }
