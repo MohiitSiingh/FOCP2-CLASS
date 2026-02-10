@@ -56,4 +56,5 @@ void swap(int &a, int &b) {
     a = a + b;
     b = a - b;
     a = a - b;
-}//pass by value pass by reference pass by address or pointer
+}//pass by value
+//  pass by address or pointer
