@@ -37,6 +37,7 @@ int swap(int a,int b){
     return b;
   //  cout<<"values of a and b after swap: "<<a<<"\n"<<b;
 }*/
+//pass by reference
 #include <iostream>
 using namespace std;
 
